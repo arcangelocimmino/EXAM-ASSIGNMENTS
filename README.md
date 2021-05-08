@@ -6,7 +6,8 @@ https://youtu.be/2EwQSCZ0Hs8 <br>
 Author: noones img <br>
 Object: morphing between objects <br>
 TD build: 2021.12380!<br>
-![01_network_screenshot](https://user-images.githubusercontent.com/77727174/117533086-0fab6c00-afeb-11eb-9627-059f7fe1f80e.png)[01_morphing_3D.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445574/01_morphing_3D.zip) (NOTA: oggetti 3D assenti dallo zip per limiti di upload github - network completo caricato su classroom)
+![01_network_screenshot](https://user-images.githubusercontent.com/77727174/117533086-0fab6c00-afeb-11eb-9627-059f7fe1f80e.png)[01_morphing_3D.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445574/01_morphing_3D.zip)<br>
+Description: exporting from blender and importing 3d objects into touchdesigner using in particular switchTOP and geoCOMP (note: due to the upload limit, some .ply files are missing from the project.
 <br>
 <br>
 Tutorial 02 <br>
@@ -16,6 +17,7 @@ Object: simple video mixer with CHOPs and motion analyzer <br>
 TD build 2021.12380!<br>
 ![02_network_screenshot](https://user-images.githubusercontent.com/77727174/117533779-f2789c80-afee-11eb-84e0-cc302beb95a6.png)
 [02_motion_analyzer.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445583/02_motion_analyzer.zip)
+Description: Analyze the frames of a movement thanks to the KeyboardinCHOP
 <br>
 <br>
 Tutorial 03 <br>
@@ -24,6 +26,7 @@ Author: bileam tschepe <br>
 Object: pixel sorting <br>
 TD build 2019.19160!<br>
 ![03_network_screenshot](https://user-images.githubusercontent.com/77727174/117533286-42a22f80-afec-11eb-8e5b-d8680c6ffbf3.png)[03_pixel_sorting.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445591/03_pixel_sorting.zip)
+Description: Obtain a disturbing mess effect applied to famous paintings mainly through a chain of TOP knots
 <br>
 <br>
 Tutorial 04 <br>
