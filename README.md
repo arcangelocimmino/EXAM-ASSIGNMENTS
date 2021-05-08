@@ -17,7 +17,7 @@ Object: simple video mixer with CHOPs and motion analyzer <br>
 TD build 2021.12380!<br>
 ![02_network_screenshot](https://user-images.githubusercontent.com/77727174/117533779-f2789c80-afee-11eb-84e0-cc302beb95a6.png)
 [02_motion_analyzer.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445583/02_motion_analyzer.zip)<br>
-Description: analyze the frames of a movement thanks to the KeyboardinCHOP
+Description: analyze the frames of a movement thanks to the KeyboardinCHOP node.
 <br>
 <br>
 Tutorial 03 <br>
@@ -26,7 +26,7 @@ Author: bileam tschepe <br>
 Object: pixel sorting <br>
 TD build 2019.19160!<br>
 ![03_network_screenshot](https://user-images.githubusercontent.com/77727174/117533286-42a22f80-afec-11eb-8e5b-d8680c6ffbf3.png)[03_pixel_sorting.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445591/03_pixel_sorting.zip)<br>
-Description: obtain a disturbing mess effect applied to famous paintings mainly through a chain of TOP knots.
+Description: obtain a disturbing mess effect applied to famous paintings mainly through a chain of TOP nodes.
 <br>
 <br>
 Tutorial 04 <br>
@@ -35,7 +35,7 @@ Author: Antonio Luongo <br>
 Object: simple geometry displacement  <br>
 TD build 2021.12380 <br>
 ![04_network_screenshot](https://user-images.githubusercontent.com/77727174/117533348-9280f680-afec-11eb-950e-a209b52dbbad.png)[04_simple_geometry_displacement.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445593/04_simple_geometry_displacement.zip)<br>
-Description: combination of GRID, GEO and NOISE knots, to reveal the face of Dorian Gray through Oscar Wilde and vice versa.
+Description: combination of GRID, GEO and NOISE nodes, to reveal the face of Dorian Gray through Oscar Wilde and vice versa.
 <br>
 <br>
 Tutorial 05 <br>
@@ -44,7 +44,7 @@ Author: Wai Ching CHUNG <br>
 Object: image processing with audio spectrum in TouchDesigner <br>
 TD build 2019.19160 <br>
 ![05_network_screenshot](https://user-images.githubusercontent.com/77727174/117533388-d83dbf00-afec-11eb-8f5f-0cd3d5d0db06.png)[05_image_processing_with_audio_spectrum.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445594/05_image_processing_with_audio_spectrum.zip) <br>
-Description: achieve a vibrant effect in time to music through audio spectrum frequency nodes applied to video sources
+Description: achieve a vibrant effect in time to music through audio spectrum frequency nodes applied to video sources.
 <br>
 <br>
 Tutorial 06 <br>
@@ -52,7 +52,8 @@ https://youtu.be/vYP8XWV2BFo <br>
 Author: noones img <br>
 Object: curl noise displacement <br>
 TD build 2021.12380 <br>
-![06_network_screenshot](https://user-images.githubusercontent.com/77727174/117533427-133ff280-afed-11eb-8064-3d4b65b69712.png)[06_curl_noise_displacement.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445595/06_curl_noise_displacement.zip)
+![06_network_screenshot](https://user-images.githubusercontent.com/77727174/117533427-133ff280-afed-11eb-8064-3d4b65b69712.png)[06_curl_noise_displacement.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445595/06_curl_noise_displacement.zip) <br>
+Description: "Liquify" an image mainly through the NOISE and DISPLACE nodes.
 <br>
 <br>
 Tutorial 07 <br>
