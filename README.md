@@ -17,7 +17,7 @@ Object: simple video mixer with CHOPs and motion analyzer <br>
 TD build 2021.12380!<br>
 ![02_network_screenshot](https://user-images.githubusercontent.com/77727174/117533779-f2789c80-afee-11eb-84e0-cc302beb95a6.png)
 [02_motion_analyzer.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445583/02_motion_analyzer.zip)<br>
-Description: analyze the frames of a movement thanks to the KeyboardinCHOP node.
+Description: analyze the frames of a movement thanks to the KeyboardinCHOP node. Use your keyboard to perform the project (buttons: 1 2 3 4 5 6 7 8 9 q w e r t)
 <br>
 <br>
 Tutorial 03 <br>
