@@ -35,7 +35,7 @@ Author: Antonio Luongo <br>
 Object: simple geometry displacement  <br>
 TD build 2021.12380 <br>
 ![04_network_screenshot](https://user-images.githubusercontent.com/77727174/117533348-9280f680-afec-11eb-950e-a209b52dbbad.png)[04_simple_geometry_displacement.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445593/04_simple_geometry_displacement.zip)<br>
-Description: Combination of GRID, GEO and NOISE knots, to reveal the face of Dorian Gray through Oscar Wilde and vice versa.
+Description: combination of GRID, GEO and NOISE knots, to reveal the face of Dorian Gray through Oscar Wilde and vice versa.
 <br>
 <br>
 Tutorial 05 <br>
@@ -43,7 +43,8 @@ https://youtu.be/XphgrCaWmNk <br>
 Author: Wai Ching CHUNG <br>
 Object: image processing with audio spectrum in TouchDesigner <br>
 TD build 2019.19160 <br>
-![05_network_screenshot](https://user-images.githubusercontent.com/77727174/117533388-d83dbf00-afec-11eb-8f5f-0cd3d5d0db06.png)[05_image_processing_with_audio_spectrum.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445594/05_image_processing_with_audio_spectrum.zip)
+![05_network_screenshot](https://user-images.githubusercontent.com/77727174/117533388-d83dbf00-afec-11eb-8f5f-0cd3d5d0db06.png)[05_image_processing_with_audio_spectrum.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445594/05_image_processing_with_audio_spectrum.zip) <br>
+Description: achieve a vibrant effect in time to music through audio spectrum frequency nodes applied to video sources
 <br>
 <br>
 Tutorial 06 <br>
