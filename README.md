@@ -69,7 +69,8 @@ https://youtu.be/7sR0WMvhACw <br>
 Author: Kaiho Nishimura <br>
 Object:  basics fluid simulation with Nvidia Flow <br>
 TD build 2019.19160 <br>
-![08_network_screenshot](https://user-images.githubusercontent.com/77727174/117533506-877a9600-afed-11eb-8c04-41be45703daf.png)[08_fire_banana.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445597/08_fire_banana.zip)
+![08_network_screenshot](https://user-images.githubusercontent.com/77727174/117533506-877a9600-afed-11eb-8c04-41be45703daf.png)[08_fire_banana.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445597/08_fire_banana.zip) <br>
+Description: burning an image through Nvidia Flow Emitter COMP
 <br>
 <br>
 Tutorial 09 <br>
