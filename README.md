@@ -86,7 +86,8 @@ https://youtu.be/PvhLYosLHus <br>
 Author: noones img <br>
 Object: butterfly effect through Lorenz attractor <br>
 TD build 2021.12380 <br>
-![10_network_screenshot](https://user-images.githubusercontent.com/77727174/117533576-db857a80-afed-11eb-9a7b-0d1f5d2fe474.png)[10_butterfly_effect.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445600/10_butterfly_effect.zip)
+![10_network_screenshot](https://user-images.githubusercontent.com/77727174/117533576-db857a80-afed-11eb-9a7b-0d1f5d2fe474.png)[10_butterfly_effect.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445600/10_butterfly_effect.zip) <br>
+Description: Visualization of the differential equations of the Lorenz attractor through parameters in the GLSL-TOP node.
 
 
 
