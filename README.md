@@ -15,9 +15,11 @@ Tutorial 02 <br>
 https://youtu.be/M1CZWLeSYT4 <br>
 Author: noones img <br>
 Object: simple video mixer with CHOPs and motion analyzer <br>
-TD build 2021.12380 <br>
-![02_network_screenshot](https://user-images.githubusercontent.com/77727174/117533742-c78e4880-afee-11eb-931b-9c03cd657a45.png)
-[02_motion_analyzer.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445582/02_motion_analyzer.zip)
+TD build 2021.12380![02_network_screenshot](https://user-images.githubusercontent.com/77727174/117533779-f2789c80-afee-11eb-84e0-cc302beb95a6.png)
+
+[02_motion_analyzer.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445583/02_motion_analyzer.zip)
+
+
 
 <br>
 <br>
