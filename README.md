@@ -7,7 +7,7 @@ Author: noones img <br>
 Object: morphing between objects <br>
 TD build: 2021.12380!<br>
 ![01_network_screenshot](https://user-images.githubusercontent.com/77727174/117533086-0fab6c00-afeb-11eb-9627-059f7fe1f80e.png)[01_morphing_3D.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445574/01_morphing_3D.zip)<br>
-Description: exporting from blender and importing 3d objects into touchdesigner using in particular switchTOP and geoCOMP (note: due to the upload limit, some .ply files are missing from the project.
+Description: exporting from blender and importing 3d objects into touchdesigner using in particular switchTOP and geoCOMP (note: due to the upload limit, some .ply files are missing from the project. You can find them in the CLASSROOM-folder)
 <br>
 <br>
 Tutorial 02 <br>
