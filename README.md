@@ -6,7 +6,7 @@ https://youtu.be/2EwQSCZ0Hs8 <br>
 Author: noones img <br>
 Object: morphing between objects <br>
 TD build: 2021.12380!<br>
-![01_network_screenshot](https://user-images.githubusercontent.com/77727174/117533086-0fab6c00-afeb-11eb-9627-059f7fe1f80e.png)[01_morphing_3D.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445574/01_morphing_3D.zip)
+![01_network_screenshot](https://user-images.githubusercontent.com/77727174/117533086-0fab6c00-afeb-11eb-9627-059f7fe1f80e.png)[01_morphing_3D.zip](https://github.com/arcangelocimmino/EXAM-ASSIGNMENTS/files/6445574/01_morphing_3D.zip) (NOTA: 3Dobj assenti per mancanza di spazio - caricati su classroom)
 <br>
 <br>
 Tutorial 02 <br>
